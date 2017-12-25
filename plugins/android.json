@@ -1,0 +1,42 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "io.github.tanu31195"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "io.github.tanu31195"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "io.github.tanu31195"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "io.github.tanu31195"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "io.github.tanu31195"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "io.github.tanu31195"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "io.github.tanu31195"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.github.tanu31195"
+    },
+    "phonegap-plugin-barcodescanner": {
+      "PACKAGE_NAME": "io.github.tanu31195"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "io.github.tanu31195"
+    }
+  },
+  "dependent_plugins": {}
+}
